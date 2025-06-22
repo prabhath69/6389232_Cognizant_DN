@@ -17,6 +17,10 @@ public class Finances {
 		int[] arr = { 5,10,15,20 };
 		int avgOfDiff = (calculateFutureValue(arr, arr.length-1))/arr.length;
 		int result=arr[arr.length-1]+avgOfDiff;
-		System.out.println("The next value will most probably be: "+result);
+		System.out.println("Previous data: ");
+		for(int a: arr) {
+			System.out.print(a+" ");
+		}
+		System.out.println("\nhe next value will most probably be: "+result);
 	}
 }

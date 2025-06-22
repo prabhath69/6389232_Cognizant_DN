@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 1 Exercises\BuilderPatternExample\.metadata\.plugins\org.eclipse.jdt.core

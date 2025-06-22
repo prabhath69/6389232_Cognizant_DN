@@ -43,7 +43,7 @@ public class ECommerce {
 		
 		Scanner sc=new Scanner(System.in);
 		
-		System.out.println("Enter the product name you want to search: ");
+		System.out.println("Enter the product name you want to search(Keyboard, Mouse, MS Office, Windows OS, Laptop Bag): ");
 //		sc.nextLine();
 		String target=sc.nextLine().trim();
 		
