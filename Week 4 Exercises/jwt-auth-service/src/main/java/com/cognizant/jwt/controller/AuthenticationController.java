@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Base64;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 @RestController
 public class AuthenticationController {
@@ -18,7 +18,7 @@ public class AuthenticationController {
     public String authenticate(HttpServletRequest request) {
         String authHeader = request.getHeader("Authorization");
 
-        if (authHeader == null || !authHeader.startsWith("Basic ")) {
+        if (authHeader == null) {
             return "Missing or invalid Authorization header";
         }
 
@@ -31,7 +31,7 @@ public class AuthenticationController {
         String password = values[1];
 
         // Replace this with real validation
-        if (username.equals("user") && password.equals("pwd")) {
+        if (username.equals("cognizant") && password.equals("prabhath")) {
             String token = jwtUtil.generateToken(username);
             return "{\"token\":\"" + token + "\"}";
         } else {
