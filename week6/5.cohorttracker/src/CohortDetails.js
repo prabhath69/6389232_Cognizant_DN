@@ -1,14 +1,11 @@
-import React from 'react';
-import styles from './CohortDetails.module.css';
+import './CohortDetails.css';
 
 function CohortDetails(props) {
-    const status = props.cohort.currentStatus.toLowerCase();
-    const headingStyle = {
-        color: status === "ongoing" ? "green" : "blue",
-    };
+    const statusClass = props.cohort.currentStatus === 'Ongoing' ? 'ongoing' : 'other';
+
     return (
-        <div className={styles.box}>
-            <h3 style={headingStyle}>
+        <div className="box">
+            <h3 className={statusClass}>
                 {props.cohort.cohortCode} -
                 <span>{props.cohort.technology}</span>
             </h3>
@@ -23,8 +20,7 @@ function CohortDetails(props) {
                 <dd>{props.cohort.trainerName}</dd>
             </dl>
         </div>
-
-        
     );
 }
+
 export default CohortDetails;
