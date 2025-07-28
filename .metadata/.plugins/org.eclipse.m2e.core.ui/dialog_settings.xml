@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 4 Exercises"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\LibraryManagement\src\main\java\com\library\repository\BookRepository.java"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\LibraryManagement\src\main\java\Main.java"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 3 Exercises"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 2 Exercises\JUnit\MockitoExmp\src\main\java\com\mock\CognizantList.java"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 2 Exercises"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.loadcountry"/>
+			<item value="com.mavan"/>
+			<item value="com.mavspring"/>
+			<item value="com.library"/>
+			<item value="com.spring"/>
+			<item value="com.slj"/>
+			<item value="com.verify"/>
+			<item value="com.mock"/>
+			<item value="com.aaa"/>
+			<item value="com.assertions"/>
+			<item value="com.junit"/>
+			<item value="com.jnuit"/>
+		</list>
+		<list key="name">
+			<item value="LoadCountry"/>
+			<item value="MavenConfig"/>
+			<item value="SpringMaven"/>
+			<item value="SpringDI"/>
+			<item value="LibraryManagement"/>
+			<item value="SpringConfig"/>
+			<item value="SL4J"/>
+			<item value="MockitoVerification"/>
+			<item value="MockitoExmp"/>
+			<item value="AAA"/>
+			<item value="Assertions"/>
+			<item value="J_Unit_Testing"/>
+			<item value="JUnit Testing"/>
+		</list>
+		<list key="artifactId">
+			<item value="LoadCountry"/>
+			<item value="MavenConfig"/>
+			<item value="SpringMaven"/>
+			<item value="SpringDI"/>
+			<item value="LibraryManagement"/>
+			<item value="SpringConfig"/>
+			<item value="SL4J"/>
+			<item value="MockitoVerification"/>
+			<item value="MockitoExmp"/>
+			<item value="AAA"/>
+			<item value="Assertions"/>
+			<item value="junit"/>
+			<item value="JUnit"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="2480"/>
+		<item key="y" value="96"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Cognizant DeepSkilling\Week 5\loan"/>
+			<item value="D:\Cognizant DeepSkilling\Week 5\account"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 4 Exercises\jwt-auth-service"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 4 Exercises\country-code"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 4 Exercises\spring-country"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 4 Exercises\spring-web"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 4 Exercises\spring-learn"/>
+			<item value="D:\Cognizant_Exercises\6389232_Cognizant_DN\Week 3 Exercises\JPA\orm-learn"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
