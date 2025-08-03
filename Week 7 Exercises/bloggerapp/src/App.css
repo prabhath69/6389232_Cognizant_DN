@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.st2, .v1, .mystyle1 {
+  border-left: 4px solid green;
+  padding: 0 30px;
+}
+
+.st2 { min-width: 260px; }
+.v1 { min-width: 260px; }
+.mystyle1 { min-width: 260px; }
